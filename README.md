@@ -1,5 +1,5 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
-
+## DATE : 16.09.2023
 ## AIM:
 To simulate the Fused Deposition Modeling (FDM) process.
 
@@ -28,4 +28,4 @@ System - Windows 7 or higher, 1 GB RAM.
 ### Register Number: 212222110002
 
 ## Result:
-### Thus the simulation on the FDM process is completed & prototyping process is studied.
+Thus the simulation on the FDM process is completed & prototyping process is studied.
